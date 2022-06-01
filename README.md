@@ -1,1 +1,1 @@
-influxdb-1
+# influxdb-template
